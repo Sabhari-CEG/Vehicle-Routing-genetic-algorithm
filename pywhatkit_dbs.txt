@@ -1,0 +1,86 @@
+--------------------
+Date: 27:3:2021
+Time: 15:11
+Phone number: +919842824705
+Message: Hi ajay!! message by python!!
+--------------------
+Date: 27:3:2021
+Time: 15:15
+Phone number: +919842824705
+Message: Hi ajay!! message by python!!
+--------------------
+Date: 27:3:2021
+Time: 15:20
+Phone number: +919842824705
+Message: ('Hi ajay!!, summary of travel, go to', 'coimbatore', ' with the total distance of ', 635.5909011709956)
+--------------------
+Date: 27:3:2021
+Time: 15:26
+Phone number: +919842824705
+Message: ('Hi ajay!!, summary of travel, go to', ['coimbatore', 'chennai', 'bangalore'], ' with the total distance of ', 635)
+--------------------
+Date: 27:3:2021
+Time: 15:26
+Phone number: +919842824705
+Message: ('Hi ajay!!, summary of travel, go to with the total distance of ', 635)
+--------------------
+Date: 27:3:2021
+Time: 15:27
+Phone number: +919842824705
+Message: ('Hi ajay!!, summary of travel, go to with the total distance of ', 635)
+--------------------
+Date: 27:3:2021
+Time: 15:30
+Phone number: +919842824705
+Message: Hi ajay! this message is from company to inform you that a trip had been booked for you. kindly refer your portal for full information
+--------------------
+Date: 27:3:2021
+Time: 15:33
+Phone number: +919842824705
+Message: Hi ajay! this message is from company to inform you that a trip had been booked for you. kindly refer your portal for full information
+--------------------
+Date: 27:3:2021
+Time: 15:41
+Group_id: New Start up
+Message: Hi ajay! this message is from company to inform you that a trip had been booked for you. kindly refer your portal for full information
+--------------------
+Date: 27:3:2021
+Time: 15:46
+Group_id: CZBRNqeHD9K6HruYK6aOBR
+Message: Hi ajay! this message is from company to inform you that a trip had been booked for you. kindly refer your portal for full information
+--------------------
+Date: 27:3:2021
+Time: 15:49
+Group_id: CZBRNqeHD9K6HruYK6aOBR
+Message: Hi ajay! this message is from company to inform you that a trip had been booked for you. kindly refer your portal for full information
+--------------------
+Date: 29:3:2021
+Time: 15:33
+Phone number: +919842824705
+Message: Hi ajay! this message is from company to inform you that a trip had been booked for you. kindly refer your portal for full information
+--------------------
+Date: 19:4:2021
+Time: 22:12
+Phone number: +919842824705
+Message: Hi ajay! this message is from company to inform you that a trip had been booked for you. kindly refer your portal for full information
+--------------------
+Date: 26:4:2021
+Time: 15:15
+Phone number: +919842824705
+Message: Hi ajay! this message is from company to inform you that a trip had been booked for you. kindly refer your portal for full information
+--------------------
+Date: 26:4:2021
+Time: 15:15
+Group_id: CZBRNqeHD9K6HruYK6aOBR
+Message: Hi guys! this message is from company to inform you that a trip had been booked for you. kindly refer your portal for full information
+--------------------
+Date: 27:4:2021
+Time: 18:58
+Phone number: +919842824705
+Message: Hi ajay! this message is from company to inform you that a trip had been booked for you. kindly refer your portal for full information
+--------------------
+Date: 27:4:2021
+Time: 18:58
+Group_id: CZBRNqeHD9K6HruYK6aOBR
+Message: Hi guys! this message is from company to inform you that a trip had been booked for you. kindly refer your portal for full information
+--------------------
